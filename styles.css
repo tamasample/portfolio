@@ -39,7 +39,7 @@ body {
 }
 
 .top_img {
-  background-image: url(Images/top.png);
+  background-image: url(../Images/top.png);
   width: 90%;
   height: 90%;
   margin: 5% auto 0;
