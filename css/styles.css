@@ -125,7 +125,8 @@ body {
   transition: all .3s ease-in-out;
 }
 
-.menu ul li:hover{
+.menu ul li:hover,
+.menu ul li:active{
   background-image: url(../Images/top.png);
   background-repeat: no-repeat;
   color: transparent;
